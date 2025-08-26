@@ -1,0 +1,9 @@
+path: /content/data
+train: train/images
+val: validation/images
+nc: 4
+names:
+  - 0
+  - 1
+  - 2
+  - 3
