@@ -8,7 +8,7 @@ Note: The state of parking spots will be renewed every two seconds.
 
 https://github.com/user-attachments/assets/acdb9810-3833-48ff-ad4c-e07050fc64ee
 
-## modules
+## Modules
 1. The `data_split.py` file is used to split data into train and validation folders based on how the yolo models should be formatted.
 (user arguments are passed by the user, e.g., train_ratio: 0.9)
 2. The `data_prep.py` file is used to take snapshots of video files (multiple video files can be parsed in a single run)
